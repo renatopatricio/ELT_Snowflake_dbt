@@ -1,0 +1,7 @@
+Acesso ao novadrive via linux
+
+psql -h 159.223.187.110 -U etlreadonly -d novadrive
+
+senha: novadrive376A@
+
+
